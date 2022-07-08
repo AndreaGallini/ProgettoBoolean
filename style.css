@@ -1,0 +1,98 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  width: auto;
+  height: auto;
+  background-repeat: no-repeat;
+
+}
+
+.box{
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0,5;
+  border-radius: 10px 10px 10px 10px;
+  height: 750px;
+  width: 1000px;
+  margin: auto;
+  margin-top: 100px;
+
+}
+
+#logo{
+  text-align: center;
+  padding-top: 5%;
+
+
+
+}
+.testo{
+  text-align: center;
+  color:rgba(0,255, 0, 1);
+  font-family: 'Roboto', sans-serif;
+}
+.sfondoinput{
+  background-color: rgb(0, 255, 0);
+  height: 40px;
+  width: 700px;
+  margin-left: 20%;
+  margin-right: 10%;
+
+}
+.bottoni{
+  text-align: center;
+  border-top: 10px;
+}
+.margine{
+  text-align: center;
+  padding-top: 10px;
+}
+
+.checkbox{
+  display: inline-block;
+  color: white;
+  width:auto;
+  margin-left: 20%;
+}
+.nomemonopattini{
+  display: inline-block;
+  color: white;
+  margin-bottom: 3px;
+  font-family: 'Roboto', sans-serif;
+}
+.descrizione{
+  color: white;
+  margin-left: 20%;
+  margin-top: 0px;
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 0px;
+}
+.carica{
+  color: white;
+  margin-left: 20%;
+  margin-bottom: 0px;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 5px;
+
+}
+#hr1{
+  background-color:rgba(255, 186, 0, 1);
+  height: 35px;
+  margin-left: 20%;
+  border-radius: 10px 10px 10px 10px;
+  margin-right: 50%;
+
+}
+#hr2{
+  background-color: rgb(0, 255, 0);
+  height: 35px;
+  margin-left: 20%;
+  border-radius: 10px 10px 10px 10px;
+  margin-right: 30%;
+}
+#hr3{
+  background-color: rgb(255, 0, 0);
+  height: 35px;
+  margin-left: 20%;
+  border-radius: 10px 10px 10px 10px;
+  margin-right: 70%;
+}
